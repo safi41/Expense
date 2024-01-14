@@ -38,6 +38,8 @@ class MyHomePage extends StatefulWidget {
   State<MyHomePage> createState() => _MyHomePageState();
 }
 
+//i have creared a  new repositry
+
 class _MyHomePageState extends State<MyHomePage> {
   late final Expensename = TextEditingController();
   final Expenseprice = TextEditingController();
